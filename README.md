@@ -42,5 +42,6 @@ We'll also pass strings with special symbols, such as  `2A3*3a2`,  `2A3 3a2`, an
 
 ## Additional resources
 **freeCodeCamp - [main page here](https://www.freecodecamp.org/)**
+
 **JavaScript Algorithms and Data Structures Project**
 [Link to the project](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
